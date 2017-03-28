@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 8a95973aea45afd42a45acfc04022d4f
+timeCreated: 1433964908
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: FloorCorner
+    100002: FloorEdge
+    100004: FloorEdge001
+    100006: FloorMiddle
+    100008: Object384
+    100010: Object406
+    100012: WallBaseCorner
+    100014: WallBaseCorner001
+    100016: WallBaseStraight
+    100018: WallBaseStraight001
+    100020: WallTrimCorner
+    100022: WallUpperCorner
+    100024: //RootNode
+    100026: WallUpperHole
+    100028: WallUpperStraight
+    400000: FloorCorner
+    400002: FloorEdge
+    400004: FloorEdge001
+    400006: FloorMiddle
+    400008: Object384
+    400010: Object406
+    400012: WallBaseCorner
+    400014: WallBaseCorner001
+    400016: WallBaseStraight
+    400018: WallBaseStraight001
+    400020: WallTrimCorner
+    400022: WallUpperCorner
+    400024: WallUpperHole
+    400026: //RootNode
+    400028: WallUpperStraight
+    2300000: FloorCorner
+    2300002: FloorEdge
+    2300004: FloorEdge001
+    2300006: FloorMiddle
+    2300008: Object384
+    2300010: Object406
+    2300012: WallBaseCorner
+    2300014: WallBaseCorner001
+    2300016: WallBaseStraight
+    2300018: WallBaseStraight001
+    2300020: WallTrimCorner
+    2300022: WallUpperCorner
+    2300024: WallUpperHole
+    2300026: WallUpperStraight
+    2300028: //RootNode
+    3300000: FloorCorner
+    3300002: FloorEdge
+    3300004: FloorEdge001
+    3300006: FloorMiddle
+    3300008: Object384
+    3300010: Object406
+    3300012: WallBaseCorner
+    3300014: WallBaseCorner001
+    3300016: WallBaseStraight
+    3300018: WallBaseStraight001
+    3300020: WallTrimCorner
+    3300022: WallUpperCorner
+    3300024: WallUpperHole
+    3300026: WallUpperStraight
+    3300028: //RootNode
+    4300000: WallBaseCorner
+    4300002: WallUpperCorner
+    4300004: WallUpperHole
+    4300006: WallTrimCorner
+    4300008: WallBaseStraight
+    4300010: WallUpperStraight
+    4300012: Object384
+    4300014: Object406
+    4300016: FloorEdge
+    4300018: FloorCorner
+    4300020: FloorMiddle
+    4300022: WallBaseCorner001
+    4300024: FloorEdge001
+    4300026: WallBaseStraight001
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
